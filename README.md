@@ -1,7 +1,7 @@
 # XP!
 Maintenance
 
-[![Lume](https://img.shields.io/badge/Made%20with-Lume-1f425f)](https://lume.land/)]
+[![Lume](https://img.shields.io/badge/Made%20with-Lume-1f425f)](https://lume.land/)
 
 ---
 This my personal website using Lume Deno and Tailwind CSS.<br>
