@@ -5,7 +5,7 @@ Maintenance
 <img src="https://media1.giphy.com/media/qfLUF9PuBV9SRZKJcv/giphy.webp?cid=6c09b952o8yr0d662y5194r32202gh6somn6n8d6sxeb9wue&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Made%20with-Lume-%23000?style=for-the-badge"/> <img src="https://img.shields.io/badge/deno.land%2Fx-v1.18.5-%23000?style=for-the-badge&logo=deno&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20css-%230ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Made%20With-Lume-%23000"/> <img src="https://img.shields.io/badge/deno.land%2Fx-v1.18.5-%23000?logo=deno&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-%230ea5e9?logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/License-MIT-%230c4a6e"/>
 </p>
 
 ---
