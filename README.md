@@ -22,7 +22,7 @@ To run this on **localhost** type `deno task lume --serve` or `deno task serve` 
 ## Build
 - Made and build with [Lume Deno](https://lume.land/) and [Tailwind CSS](https://tailwindcss.com).
 - For icons i use [ionicons](https://ionic.io/ionicons).
-- This site Deployed using [Netlify](https://netlify.com/).
+- This site Deployed using [Github Pages](https://github.com/).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ahmadxp/ahmadxp.github.io/blob/main/LICENSE) file for details.
