@@ -7,6 +7,7 @@ import postcss from "lume/plugins/postcss.ts";
 import feed from "lume/plugins/feed.ts";
 
 const site = lume({
+    src: "./src",
     components: {
         variable: "components",
     },
