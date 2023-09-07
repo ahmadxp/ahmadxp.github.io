@@ -9,7 +9,7 @@ Maintenance
 </p>
 
 ---
-This is my personal website, made using Lume Deno & Tailwind CSS. If you want to edit this. Clone this project and edit the files in `/src` folder.
+This is my personal website, made using Lume Deno & Tailwind CSS. If you want to edit this. Clone this repository and edit the files in `/src` folder.
 
 Before you run this, you must have deno installed. See full information about Deno [here](https://deno.land/).
 
