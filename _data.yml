@@ -1,15 +1,1 @@
 layout: layouts/base.njk
-
-metas:
-  site: =title
-  description: =description
-  image: =image
-  keywords:
-    - web
-    - personal web
-    - site
-    - personal site
-    - static site
-    - blog
-    - ahmadxp
-  generator: true
