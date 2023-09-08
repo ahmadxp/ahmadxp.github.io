@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .body-frst {
+        @apply bg-white;
+    }
+    .head-section {
+        @apply px-4 py-4 max-w-2xl m-auto rounded-b-md flex flex-col items-center justify-center shadow-md bg-[url('/src/static/img/pattern.png')];
+    }
+    .head-profile {
+        @apply my-2 outline outline-2 outline-grey rounded-full object-cover w-28 h-28;
+    }
+    .head-title {
+        @apply font-bold text-xl text-white;
+    }
+    .head-location {
+        @apply flex text-sm text-white;
+    }
+    .social-link {
+        @apply flex items-center justify-center my-4 space-x-2;
+    }
+}

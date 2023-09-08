@@ -1,7 +1,0 @@
-{
-  "build": {
-    "image": "denoland/deno",
-    "command": "deno task build",
-    "publicDir": "_site"
-  }
-}
